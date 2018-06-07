@@ -25,5 +25,6 @@
 	<classpathentry kind="lib" path="C:/Users/Christian/Desktop/Drivers/selenium-server-standalone-3.12.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Christian/Desktop/Drivers/selenium-java-3.12.0 (1).zip"/>
 	<classpathentry kind="lib" path="C:/Users/Christian/Desktop/Drivers/chromedriver_win32.zip"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
