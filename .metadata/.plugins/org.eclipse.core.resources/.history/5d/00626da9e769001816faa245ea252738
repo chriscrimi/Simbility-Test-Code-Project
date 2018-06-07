@@ -1,0 +1,18 @@
+package Test_Code_Project.Symbility;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	System.setProperty("webdriver.chrome.driver", "C:\\Users\\Christian\\Desktop\\Drivers\\chromedriver_win32");
+        WebDriver driver = new ChromeDriver();
+    	driver.get("http://www.google.com");
+    }
+}
