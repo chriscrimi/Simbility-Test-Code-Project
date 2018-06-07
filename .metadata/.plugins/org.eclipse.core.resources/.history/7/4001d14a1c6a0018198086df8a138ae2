@@ -1,0 +1,10 @@
+package WebPageObjects;
+
+public class Test1_Objects {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

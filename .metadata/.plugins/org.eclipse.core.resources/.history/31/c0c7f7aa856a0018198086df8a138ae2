@@ -1,0 +1,13 @@
+package TestCases;
+
+import org.testng.annotations.Test;
+
+import TestCaseUtils.TestUtils;
+
+public class Test3 extends TestUtils{
+	@Test
+	public void inputMemoryCard() {
+	  reporterOutput(" Test 3 -> Search for memory card");
+	  
+  }
+}

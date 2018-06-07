@@ -1,0 +1,20 @@
+package WebPageObjects;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.WebDriver;
+
+
+import TestCaseUtils.TestUtils;
+
+public class Test2_Objects extends TestUtils{
+	protected WebDriver driver;
+
+	public void clickHelloSignInYourAccountIsDisplayed() {
+		this.reporterOutput("click 'Hello. Sign In. Your Account'");
+		this.getHelloSignInYourAccountId().click();
+	}
+	private WebElement getHelloSignInYourAccountId() {
+		return this.driver.findElement(By.xpath("//a[@id='nav-link-yourAccount']"));
+	}
+}

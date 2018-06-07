@@ -1,0 +1,20 @@
+package TestCases;
+
+import org.testng.annotations.Test;
+import TestCaseUtils.TestUtils;
+import WebPageObjects.Test1_Objects;
+
+public class Test1 extends TestUtils{
+	
+  @Test(enabled = true)
+  public void Test1_Hello_Sign_In_Your_Account_Is_Displayed() {
+	  reporterOutput(" Test 1 'Test1_Hello_Sign_In_Your_Account_Is_Displayed'");
+	  TestUtils Test1 = new TestUtils();
+	  Test1_Objects testObject = new Test1_Objects();
+	  if (Test1.checkIfSignedOutIsTrue()){
+		  testObject.checkHelloSignInYourAccountIsDisplayed();
+	  }else {
+		  testObject.signOut();
+	  }
+  }
+}

@@ -1,0 +1,22 @@
+package TestCaseUtils;
+import org.testng.annotations.BeforeMethod;
+import org.testng.ITestResult;
+import org.testng.Reporter;
+import org.testng.annotations.AfterMethod;
+
+public class TestUtils {
+	private final String reporterLine = "-------------------------------";
+	public void reporterOutput(String Log){
+		System.out.println(Log);
+	}
+  @BeforeMethod
+  public void beforeMethod() {
+	  System.out.println(this.reporterLine);
+  }
+
+  @AfterMethod
+  public void afterMethod(ITestResult result) {
+	  reporterOutput("Done Test");
+  }
+
+}

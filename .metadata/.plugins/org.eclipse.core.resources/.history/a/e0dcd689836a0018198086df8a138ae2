@@ -1,0 +1,31 @@
+package WebPageObjects;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.WebDriver;
+
+
+import TestCaseUtils.TestUtils;
+
+public class Test2_Objects extends TestUtils{
+	protected WebDriver driver;
+
+	public void clickHelloSignInYourAccountIsDisplayed() {
+		this.reporterOutput("click 'Hello. Sign In. Your Account'");
+		this.getHelloSignInYourAccountId().click();
+	}
+	
+	public void enterEmail(String email) {
+		this.reporterOutput("enter email");
+		this.getEmailField().sendKeys(email);
+	}
+	
+	private WebElement getHelloSignInYourAccountId() {
+		return this.driver.findElement(By.xpath("//a[@id='nav-link-yourAccount']"));
+	}
+	
+	private WebElement getEmailField() {
+		return this.driver.findElement(By.xpath("//input[@id=\"ap_email\"]"));
+		
+	}
+}

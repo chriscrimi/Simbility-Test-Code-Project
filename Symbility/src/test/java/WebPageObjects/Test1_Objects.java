@@ -1,0 +1,21 @@
+package WebPageObjects;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+import TestCaseUtils.TestUtils;
+
+public class Test1_Objects extends TestUtils{
+
+	public void checkHelloSignInYourAccountIsDisplayed() {
+		this.reporterOutput("Check If 'Hello. Sign In. Your Account' is displayed in the top right corner");
+		this.getHelloSignInYourAccountId().getText().contains("Hello.");
+		this.getHelloSignInYourAccountId().getText().contains("Sign In");
+		this.getHelloSignInYourAccountId().getText().contains("Your Account");
+	}
+	
+	private WebElement getHelloSignInYourAccountId() {
+		return this.driver.findElement(By.xpath("//a[@id='nav-link-yourAccount']"));
+	}
+
+}

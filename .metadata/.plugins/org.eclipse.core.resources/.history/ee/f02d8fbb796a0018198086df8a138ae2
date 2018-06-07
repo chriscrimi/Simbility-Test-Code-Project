@@ -1,0 +1,19 @@
+package WebPageObjects;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+import TestCaseUtils.TestUtils;
+
+public class Test2_Objects extends TestUtils{
+
+	public void clickSearchBar() {
+		this.getSearchBarId().click();
+	}
+	
+	private WebElement getSearchBarId() {
+		WebElement element = null;
+		element = WebDriver.findElement(By.cssSelector("#twotabsearchtextbox"));
+		return element;
+	}
+}

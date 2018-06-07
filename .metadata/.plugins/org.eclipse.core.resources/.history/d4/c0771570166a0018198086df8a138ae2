@@ -1,0 +1,59 @@
+2018-06-05 20:29:24,483 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-05 20:36:08,716 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\pom.xml
+2018-06-05 20:36:13,843 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Test_Code_Project:Symbility:0.0.1-SNAPSHOT @ C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\pom.xml.
+2018-06-05 20:36:15,771 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Symbility/src/main/java
+2018-06-05 20:36:15,781 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Symbility/src/test/java
+2018-06-05 20:36:17,011 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2018-06-05 20:36:17,830 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-05 20:36:17,830 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\main\resources
+2018-06-05 20:36:17,833 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-05 20:36:17,833 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\test\resources
+2018-06-05 20:36:26,120 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-05 20:36:26,120 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\main\resources
+2018-06-05 20:36:26,121 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-05 20:36:26,122 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\test\resources
+2018-06-05 20:37:51,751 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-05 20:37:51,751 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\main\resources
+2018-06-05 20:37:51,760 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-05 20:37:51,760 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\test\resources
+2018-06-06 20:08:41,441 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:08:41,443 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\main\resources
+2018-06-06 20:08:41,450 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:08:41,455 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\test\resources
+2018-06-06 20:09:11,938 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:09:11,938 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\main\resources
+2018-06-06 20:09:11,945 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:09:11,950 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\test\resources
+2018-06-06 20:09:51,016 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:09:51,016 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\main\resources
+2018-06-06 20:09:51,024 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:09:51,029 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\test\resources
+2018-06-06 20:10:11,448 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:10:11,448 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\main\resources
+2018-06-06 20:10:11,455 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:10:11,461 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\test\resources
+2018-06-06 20:11:06,671 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:11:06,671 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\main\resources
+2018-06-06 20:11:06,678 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:11:06,684 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\test\resources
+2018-06-06 20:12:14,434 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:12:14,434 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\main\resources
+2018-06-06 20:12:14,441 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:12:14,447 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\test\resources
+2018-06-06 20:13:10,013 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:13:10,013 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\main\resources
+2018-06-06 20:13:10,019 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:13:10,025 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\test\resources
+2018-06-06 20:13:53,744 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:13:53,744 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\main\resources
+2018-06-06 20:13:53,751 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 20:13:53,756 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\test\resources
+2018-06-06 23:55:45,521 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 23:55:45,523 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\main\resources
+2018-06-06 23:55:45,531 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 23:55:45,536 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\test\resources
+2018-06-07 00:19:57,018 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-07 00:19:57,019 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\main\resources
+2018-06-07 00:19:57,028 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-07 00:19:57,035 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Christian\Desktop\OTHERWORSPACE\Symbility\src\test\resources
+2018-06-07 00:30:31,720 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

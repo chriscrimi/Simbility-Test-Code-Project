@@ -1,0 +1,16 @@
+package Test_Code_Project.Symbility;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+import TestCaseUtils.TestUtils;
+
+public class Test1 extends TestUtils{
+	
+  @Test(enabled = true)
+  public void f1() {
+	  System.setProperty("webdriver.chrome.driver", "C:\\Users\\Christian\\Desktop\\Drivers\\chromedriver_win32\\chromedriver.exe");
+      WebDriver driver = new ChromeDriver();
+      driver.get("https://www.amazon.ca");
+  }
+}
